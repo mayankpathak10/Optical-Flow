@@ -10,4 +10,9 @@ Initial algorithms for each method are learnt and implemented by understanding t
 Some of the outputs are:
 
 Output of Lucas-Kanade Method:
+
 ![](Outputs/Grove_LK/Part1/Grove_LK.gif) 
+
+Output of Inbult L-K Method function:
+
+![](Outputs/Grove_LK/Part2/Inbult_grove_LK.gif)
