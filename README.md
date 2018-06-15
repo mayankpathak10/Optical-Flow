@@ -11,9 +11,9 @@ Some of the outputs are:
 
 Output of Lucas-Kanade Method:
 
-[](Outputs/Grove_LK/Part1/Grove_LK.gif) 
+![](Outputs/Grove_LK/Part1/Grove_LK.gif) 
 
 Output of Inbult L-K Method function:
 
-[](Outputs/Wooden_LK/Part2/Inbult_Wooden_LK.gif)
+![](Outputs/Wooden_LK/Part2/Inbult_Wooden_LK.gif)
 
