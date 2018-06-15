@@ -15,5 +15,5 @@ Output of Lucas-Kanade Method:
 
 Output of Inbult L-K Method function:
 
-![](Outputs/Grove_LK/Part2/Inbult_grove_LK.gif)
+![](Outputs/Grove_LK/Part2/Inbult_grove_LK.g)
 
